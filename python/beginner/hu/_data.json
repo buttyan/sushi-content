@@ -1,0 +1,65 @@
+{
+  "01": {
+    "title": "Előkészületek",
+    "filename": "01",
+    "language": "python",
+    "subject": "python",
+    "card_number": 1,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "02": {
+    "title": "Az első Python programod",
+    "filename": "02",
+    "language": "python",
+    "subject": "python",
+    "card_number": 2,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "03": {
+    "title": "Beszélgetés a felhasználóval",
+    "filename": "03",
+    "language": "python",
+    "subject": "python",
+    "card_number": 3,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "04": {
+    "title": "Összehasonlítás és feltételes elágazás",
+    "filename": "04",
+    "language": "python",
+    "subject": "python",
+    "card_number": 4,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "05": {
+    "title": "Valódi elágazások",
+    "filename": "05",
+    "language": "python",
+    "subject": "python",
+    "card_number": 5,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "06": {
+    "title": "Ciklusok",
+    "filename": "06",
+    "language": "python",
+    "subject": "python",
+    "card_number": 6,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  },
+  "07": {
+    "title": "Készíts egy játékot!",
+    "filename": "07",
+    "language": "python",
+    "subject": "python",
+    "card_number": 7,
+    "series_total_cards": 7,
+    "series_title": "Bevezetés a Python nyelvbe kezdőknek"
+  }
+}

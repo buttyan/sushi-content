@@ -1,0 +1,47 @@
+{
+  "serie_title": "Bevezetés a Python nyelvbe kezdőknek",
+  "language": "hu",
+  "subject": "python",
+  "cards": [
+    {
+      "title": "Előkészületek",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Az első Python programod",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Beszélgetés a felhasználóval",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Összehasonlítás és feltételes elágazás",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Valódi elágazások",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Ciklusok",
+      "filename": "06",
+      "card_number": 6
+    },
+    {
+      "title": "Készíts egy játékot!",
+      "filename": "07",
+      "card_number": 7
+    }
+  ],
+  "description": "Hungarian translation of the 'Get started with Python' series of sushi cards for beginner Python programming.",
+  "difficulty": 1,
+  "author": "CoderDojo Foundation, translation by Levente Buttyán, CoderDojo Szentendre",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo"
+}
